@@ -11,6 +11,8 @@
 }
 .example-2::before{
     content: "🦑";
+
+    border: 5px solid palevioletred;
 }
 .example-2::after{
     content: "🌹";
